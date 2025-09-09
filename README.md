@@ -1,2 +1,2 @@
 # Sonali
-This is se practical
+There is SE practical
